@@ -1,4 +1,5 @@
 # TODO
+# - not really gnome3 compatible (gir and static import conflict)
 # - complete python deps (pynotify, etc)
 # - Exec line missing in .desktop file, bug?
 Summary:	Nautilus extension to send files to a pastebin
